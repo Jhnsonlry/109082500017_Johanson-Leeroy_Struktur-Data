@@ -45,7 +45,7 @@ penjelasan singkat guided 3
 
 ## Unguided
 
-### 1. (isi dengan soal unguided 1)
+### 1. (Buatlah program yang menerima input-an dua buah bilangan betipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut.)
 
 ```C++
 #include <iostream>
@@ -82,7 +82,7 @@ penjelasan unguided 1
 8. Hasil dari setiap operasi ditampilkan ke layar secara berurutan.
 9. Setelah semua operasi selesai, program berakhir.
 
-### 2. (isi dengan soal unguided 2)
+### 2. (Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100)
 
 ```C++
 #include <iostream>
@@ -164,7 +164,7 @@ penjelasan unguided 2
 9. Jika angka tidak termasuk dalam rentang 0 sampai 100, program menampilkan “error”.
 10. Setelah selesai menampilkan hasil, program berakhir.
 
-### 3. (isi dengan soal unguided 3)
+### 3. ()
 
 ```C++
 #include <iostream>
