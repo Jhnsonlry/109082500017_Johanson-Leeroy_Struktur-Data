@@ -23,7 +23,7 @@ void tukarReference(int &x, int &y, int &z){
 }
 
 int main(){
-    int a = 2, b = 3, c = 7;
+    int a = 4, b = 6, c = 1;
 
     //Tes Call by Value
     tukarValue(a,b,c);
@@ -37,4 +37,3 @@ int main(){
     tukarReference(a,b,c);
     cout<< "Setelah Call by Reference -> a = "<< a<< ", b = "<< b<< ", c = "<<  c<<"(Berubah lagi!)"<< endl;
 }
-    
