@@ -310,7 +310,7 @@ penjelasan unguided 1
 11. Setelah seluruh operasi matriks selesai, program berakhir.
 
 
-### 2. (isi dengan soal unguided 2)
+### 2. Berdasarkan guided pointer dan reference sebelumnya, buatlah keduanya dapat menukar nilai dari 3 variabel.
 
 ```C++
 #include <iostream>
@@ -378,7 +378,16 @@ penjelasan unguided 2
 10. Hasil dari setiap metode ditampilkan ke layar untuk melihat perbedaan antara Call by Value, Call by Pointer, dan Call by Reference.
 
 
-### 3. (isi dengan soal unguided 3)
+### 3. Diketahui sebuah array 1 dimensi sebagai berikut :
+arrA = {48, 2, 7 , 21, 5, 20, 77, 9, 10, 1}
+Buatlah program yang dapat mencari nilai minimum, maksimum, dan rata – rata dari 
+array tersebut! Kerjakan soal dengan ketentuan :
+- Untuk mencari nilai minimum dan maksimum, harus dibuat menjadi sebuah function.
+- Untuk mencari rata-rata harus dibuat menjadi sebuah procedure.
+- Buat output di fungsi utama (main) untuk menampilkan nilai rata-rata yang sudah 
+didapatkan melalui procedure sebelumnya. (Gunakan metode pass by reference atau 
+pass by pointer)
+- Buat menu sederhana untuk menjalankan setiap procedure
 
 ```C++
 #include <iostream>
