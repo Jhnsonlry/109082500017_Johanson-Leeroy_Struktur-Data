@@ -241,10 +241,6 @@ int main(){
 
 ![Screenshot Output Unguided 2_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%203/SS/2-1.png)
 
-##### Output 2
-
-![Screenshot Output Unguided 2_2]()
-
 penjelasan unguided 2
 1. File Header (pelajaran.h) mendeklarasikan struktur 'pelajaran' yang memiliki atribut 'namaMapel' dan 'kodeMapel' bertipe 'string'. File ini juga mendeklarasikan fungsi 'create_pelajaran()' untuk membuat data pelajaran dan 'tampil_pelajaran()' untuk menampilkan data pelajaran. Penggunaan '#ifndef', '#define', dan '#endif' bertujuan mencegah header dimasukkan berulang kali.
 
@@ -339,10 +335,6 @@ int main() {
 ##### Output 1
 
 ![Screenshot Output Unguided 3_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%203/SS/3-1.png)
-
-##### Output 2
-
-![Screenshot Output Unguided 3_2]()
 
 penjelasan unguided 3
 1. Program memanggil library iostream agar dapat menggunakan cout untuk menampilkan informasi ke layar.
