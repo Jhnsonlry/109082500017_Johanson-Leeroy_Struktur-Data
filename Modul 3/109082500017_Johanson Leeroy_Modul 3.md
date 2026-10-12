@@ -53,6 +53,7 @@ bool CheckPenulis(buku buku);
 ```
 
 penjelasan singkat guided 1
+
 Program tersebut digunakan untuk mendefinisikan struktur data buku yang menyimpan informasi berupa judul, jumlah halaman, dan penulis buku. Struktur buku memiliki tiga atribut, yaitu judul dan penulis bertipe string, serta halaman bertipe int. Program juga mendeklarasikan tiga fungsi, yaitu editIsi() untuk mengubah isi data buku, TampilkanIsiBuku() untuk menampilkan data buku, dan CheckPenulis() untuk memeriksa apakah nama penulis kosong.
 
 
@@ -82,6 +83,7 @@ bool CheckPenulis(buku buku)
 ```
 
 penjelasan singkat guided 2
+
 Program tersebut digunakan untuk mengimplementasikan tiga fungsi yang telah dideklarasikan pada header buku. Fungsi editIsi() digunakan untuk mengisi atau mengubah data judul, jumlah halaman, dan penulis melalui parameter referensi buku &buku. Fungsi TampilkanIsiBuku() digunakan untuk menampilkan informasi buku, sedangkan fungsi CheckPenulis() mengembalikan nilai true jika nama penulis kosong dan false jika nama penulis terisi.
 
 ### 3. Main Buku
@@ -113,6 +115,7 @@ int main(){
 ```
 
 penjelasan singkat guided 3
+
 Program tersebut digunakan untuk menginput, menyimpan, dan menampilkan data buku menggunakan struktur buku. Variabel novel digunakan untuk menyimpan data buku, sedangkan variabel judul, halaman, dan penulis digunakan untuk menerima input dari pengguna. Fungsi editIsi() digunakan untuk memasukkan data ke dalam variabel novel, kemudian fungsi TampilkanIsiBuku() menampilkan data tersebut. Terakhir, fungsi CheckPenulis() memeriksa apakah nama penulis kosong dan menampilkan hasilnya berupa nilai 1 jika kosong atau 0 jika terisi.
 
 ## Unguided
