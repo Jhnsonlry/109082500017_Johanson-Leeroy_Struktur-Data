@@ -157,11 +157,11 @@ int main(){
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1]()
+![Screenshot Output Unguided 1_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%203/SS/1-1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 1_2]()
+![Screenshot Output Unguided 1_2](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%203/SS/1-2.png)
 
 penjelasan unguided 1
 1. Program memanggil library iostream agar dapat menggunakan cout untuk menampilkan informasi dan hasil ke layar.
@@ -236,9 +236,9 @@ int main(){
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1]()
+![Screenshot Output Unguided 2_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%203/SS/2-1.png)
 
-##### Output 2 (dengan nilai a, b, dan c yang berbeda)
+##### Output 2
 
 ![Screenshot Output Unguided 2_2]()
 
@@ -335,7 +335,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1]()
+![Screenshot Output Unguided 3_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%203/SS/3-1.png)
 
 ##### Output 2
 
