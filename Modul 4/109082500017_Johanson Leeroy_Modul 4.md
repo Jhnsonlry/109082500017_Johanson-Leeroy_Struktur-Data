@@ -57,6 +57,7 @@ void deleteList(linkedList &list);
 ```
 
 penjelasan singkat guided 1
+
 Header list.h berisi deklarasi struktur data dan fungsi yang digunakan untuk membuat Singly Linked List. Di dalamnya terdapat struktur mahasiswa untuk menyimpan nama, NIM, dan umur, serta struktur node yang menyimpan data mahasiswa dan pointer ke node berikutnya. Header ini juga mendeklarasikan berbagai fungsi, seperti membuat list, menambah node, menghapus node, menampilkan data, dan menghitung jumlah node.
 
 ### 2. Code Utama list
@@ -236,6 +237,7 @@ void deleteList(linkedList &list)
 ```
 
 penjelasan singkat guided 2
+
 Kode utama list.cpp berisi implementasi dari fungsi-fungsi yang sudah dideklarasikan di header. Setiap fungsi memiliki tugas masing-masing, seperti memeriksa apakah list kosong, mengalokasikan memori untuk node baru, menambahkan dan menghapus node, serta menampilkan data mahasiswa. Kode ini mengatur hubungan antar-node menggunakan pointer sehingga data dapat dikelola secara berurutan dalam linked list.
 
 ### 3. Main list
@@ -272,6 +274,7 @@ int main()
 ```
 
 penjelasan singkat guided 3
+
 Program main.cpp digunakan untuk menjalankan dan menguji fungsi-fungsi linked list yang sudah dibuat. Program pertama-tama membuat list kosong, kemudian mengalokasikan lima node yang berisi data mahasiswa. Setelah itu, node dimasukkan menggunakan insertFirst, insertLast, dan insertAfter, lalu isi list dan jumlah node ditampilkan. Terakhir, fungsi delFirst dipanggil untuk menghapus node pertama dari list.
 
 ## Unguided
