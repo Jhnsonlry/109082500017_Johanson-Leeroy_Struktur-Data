@@ -384,7 +384,7 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1]()
+![Screenshot Output Unguided 1_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%204/SS/1-1.png)
 
 
 penjelasan unguided 1
