@@ -660,7 +660,7 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1]()
+![Screenshot Output Unguided 1_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%205/SS/1-1.png)
 
 penjelasan unguided 1
 1. File Header (singlylist.h) mendeklarasikan struktur ElmList yang memiliki atribut info bertipe int untuk menyimpan data dan next bertipe address sebagai pointer ke node berikutnya. File ini juga mendeklarasikan struktur List dengan atribut First sebagai penunjuk ke node pertama. Selain itu, terdapat deklarasi fungsi createList(), alokasi(), dealokasi(), printInfo(), insertFirst(), findElm(), dan sumInfo() untuk mengelola, mencari, serta menjumlahkan data dalam Singly Linked List. Penggunaan #ifndef, #define, dan #endif bertujuan mencegah header dimasukkan berulang kali.
