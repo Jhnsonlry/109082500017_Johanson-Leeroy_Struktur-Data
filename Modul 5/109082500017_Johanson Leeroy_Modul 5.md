@@ -80,6 +80,7 @@ void FindNodeByRange(linkedList list, int nilaiAwal, int nilaiAkhir);
 ```
 
 penjelasan singkat guided 1
+
 Header 'List.h' berisi deklarasi struktur data dan fungsi yang digunakan untuk mengelola Singly Linked List. Di dalamnya terdapat struktur 'mahasiswa' untuk menyimpan nama, NIM, dan umur, serta struktur 'node' yang menyimpan data mahasiswa dan pointer 'next' untuk menunjuk ke node berikutnya. Struktur 'linkedList' digunakan untuk menyimpan pointer 'first' sebagai penunjuk node pertama. Header ini juga mendeklarasikan berbagai fungsi untuk membuat list, menambah dan menghapus node di posisi tertentu, menampilkan data, menghitung jumlah node, memperbarui data mahasiswa, serta mencari node berdasarkan data, alamat, atau rentang nilai umur.
 
 ### 2. Code Utama list
@@ -448,6 +449,7 @@ void FindNodeByRange(linkedList List, int nilaiAwal, int nilaiAkhir)
 ```
 
 penjelasan singkat guided 2
+
 File list.cpp berisi implementasi dari fungsi-fungsi yang telah dideklarasikan pada header list.h untuk mengelola Singly Linked List. Fungsi-fungsinya meliputi pembuatan list, penambahan dan penghapusan node, penampilan data mahasiswa, serta perhitungan jumlah node. Selain itu, terdapat fungsi untuk memperbarui data mahasiswa dan mencari node berdasarkan nama, NIM, alamat, maupun rentang umur.
 
 ### 3. Main list
@@ -504,6 +506,7 @@ int main(){
 ```
 
 penjelasan singkat guided 3
+
 Program main.cpp digunakan untuk menjalankan dan menguji fungsi-fungsi Singly Linked List. Program diawali dengan membuat list kosong, mengalokasikan lima node berisi data mahasiswa, kemudian memasukkannya menggunakan fungsi insertFirst, insertLast, dan insertAfter. Selanjutnya, program menampilkan isi list dan jumlah node. Terdapat juga beberapa kode yang dikomentari, yaitu updateFirst untuk memperbarui data pada node pertama, updateLast untuk node terakhir, dan updateAfter untuk node setelah posisi tertentu. Karena kode tersebut dikomentari, fungsi-fungsi itu tidak dijalankan. Program kemudian menjalankan updateByNim untuk memperbarui data mahasiswa berdasarkan NIM tertentu dan menampilkan kembali isi list setelah diperbarui.
 
 ## Unguided
@@ -663,6 +666,7 @@ int main()
 ![Screenshot Output Unguided 1_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%205/SS/1-1.png)
 
 penjelasan unguided 1
+
 1. File Header (singlylist.h) mendeklarasikan struktur ElmList yang memiliki atribut info bertipe int untuk menyimpan data dan next bertipe address sebagai pointer ke node berikutnya. File ini juga mendeklarasikan struktur List dengan atribut First sebagai penunjuk ke node pertama. Selain itu, terdapat deklarasi fungsi createList(), alokasi(), dealokasi(), printInfo(), insertFirst(), findElm(), dan sumInfo() untuk mengelola, mencari, serta menjumlahkan data dalam Singly Linked List. Penggunaan #ifndef, #define, dan #endif bertujuan mencegah header dimasukkan berulang kali.
 
 2. File Kode Utama (singlylist.cpp) mengimplementasikan fungsi-fungsi yang telah dideklarasikan pada file header. Fungsi createList() digunakan untuk membuat list kosong, alokasi() untuk membuat node baru dan mengisi nilai info, sedangkan dealokasi() berfungsi membebaskan memori node. Fungsi printInfo() digunakan untuk menampilkan seluruh data, dan insertFirst() untuk menambahkan node di awal list. Selain itu, fungsi findElm() digunakan untuk mencari data tertentu dalam list, sedangkan sumInfo() digunakan untuk menjumlahkan seluruh nilai info pada setiap node dan menampilkan hasil penjumlahannya.
