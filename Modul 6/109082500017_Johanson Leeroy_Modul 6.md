@@ -1005,11 +1005,11 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1]()
+![Screenshot Output Unguided 1_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%206/SS/1-1.png)
 
-![Screenshot Output Unguided 1_2]()
+![Screenshot Output Unguided 1_2](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%206/SS/1-2.png)
 
-![Screenshot Output Unguided 1_3]()
+![Screenshot Output Unguided 1_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%206/SS/1-3.png)
 
 penjelasan unguided 1
 1. File header (Doublylist.h) mendeklarasikan struktur kendaraan yang memiliki atribut nopol bertipe string untuk menyimpan nomor polisi, warna bertipe string untuk menyimpan warna kendaraan, dan thnBuat bertipe int untuk menyimpan tahun pembuatan kendaraan. Struktur ElmList memiliki atribut info untuk menyimpan data kendaraan, serta next dan prev sebagai pointer ke node berikutnya dan sebelumnya. Sementara itu, struktur List memiliki atribut First dan Last yang menunjuk ke node pertama dan terakhir. File header juga mendeklarasikan prosedur dan fungsi seperti CreateList(), alokasi(), dealokasi(), printInfo(), insertLast(), findElm(), deleteFirst(), deleteLast(), deleteAfter(), dan deleteByNopol() untuk mengelola, menampilkan, mencari, menambahkan, serta menghapus data kendaraan. Penggunaan #ifndef, #define, dan #endif bertujuan untuk mencegah file header dimasukkan berulang kali.
