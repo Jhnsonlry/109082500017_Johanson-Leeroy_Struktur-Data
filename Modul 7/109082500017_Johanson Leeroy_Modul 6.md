@@ -686,11 +686,11 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1]()
+![Screenshot Output Unguided 1_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%207/SS/1-1.png)
 
-![Screenshot Output Unguided 1_2]()
+![Screenshot Output Unguided 1_2](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%207/SS/1-2.png)
 
-![Screenshot Output Unguided 1_3]()
+![Screenshot Output Unguided 1_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%207/SS/1-3.png)
 
 penjelasan unguided 1
 1. File stack.h berisi deklarasi struktur data dan prosedur serta fungsi yang digunakan untuk mengelola Stack menggunakan Array. Struktur Stack memiliki atribut info berupa array dengan kapasitas maksimal 20 elemen untuk menyimpan data bertipe integer, serta top untuk menunjukkan posisi elemen paling atas Stack. File header juga mendeklarasikan prosedur dan fungsi seperti CreateStack(), push(), pop(), printInfo(), balikStack(), pushAscending(), dan getInputStream() untuk membuat Stack kosong, menambahkan dan menghapus data, menampilkan isi Stack, membalik urutan data, memasukkan data secara berurutan dari terkecil ke terbesar, serta menerima input angka dari pengguna. Penggunaan #ifndef, #define, dan #endif bertujuan untuk mencegah file header dimasukkan berulang kali.
