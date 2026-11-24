@@ -4,7 +4,7 @@
 
 ## Dasar Teori
 
-### A. Stack
+### A. Queue
 Queue adalah salah satu struktur data linear yang menggunakan prinsip FIFO (First In, First Out), yaitu data yang pertama kali dimasukkan akan menjadi data pertama yang dikeluarkan. Penambahan data pada Queue dilakukan melalui bagian belakang yang disebut tail, sedangkan penghapusan data dilakukan melalui bagian depan yang disebut head.
 
 Queue memiliki beberapa operasi utama, yaitu enqueue() untuk menambahkan data ke bagian belakang Queue, dequeue() untuk menghapus data paling depan, isEmptyQueue() untuk memeriksa apakah Queue kosong, isFullQueue() untuk memeriksa apakah Queue penuh, dan printInfo() untuk menampilkan isi Queue.
