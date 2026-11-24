@@ -766,11 +766,11 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1 Implementasi_1]()
+![Screenshot Output Unguided 1_1 Implementasi_1](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%208/SS/1-1.png)
 
-![Screenshot Output Unguided 1_2 Implementasi_2]()
+![Screenshot Output Unguided 1_2 Implementasi_2](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%208/SS/1-2.png)
 
-![Screenshot Output Unguided 1_3 Implementasi_3]()
+![Screenshot Output Unguided 1_3 Implementasi_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy_Struktur-Data/blob/main/Modul%208/SS/1-3.png)
 
 penjelasan unguided 1
 
